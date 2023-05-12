@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/solvepnp
+solvepnp.so
+solvepnp.dylib
+solvepnp.dll
+solvepnp.a
+solvepnp.lib
+solvepnp-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
